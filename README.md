@@ -24,5 +24,9 @@ Other 3D animation system you can try!
 ## Support 
 This tool is created by me and for me, provided publicly free of charge, you can use it in your project (free or commercially) at your own discretion, it is made with my limited knowledge in computer animation; some detail/method may be incorrect and unorthodox.  
 **I will not take any responsibility or provide any technical support**, however you can hire me for your project implementation and development.
+## Screenshots
+![alt text](https://github.com/callmeEthan/Gamemaker_animation_demo/blob/main/Readme/Turning.gif?raw=true)
+![alt text](https://github.com/callmeEthan/Gamemaker_animation_demo/blob/main/Readme/Walking.gif?raw=true)
+![alt text](https://github.com/callmeEthan/Gamemaker_animation_demo/blob/main/Readme/Sprinting.gif?raw=true)
 ## License 
 This Animation Tool is licensed under the [MIT License](https://github.com/callmeEthan/Gamemaker_animation_demo/blob/main/LICENSE).
