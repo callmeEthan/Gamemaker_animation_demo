@@ -34,4 +34,3 @@ This tool is created by me and for me, provided publicly free of charge, you can
 This Animation Tool is licensed under the [MIT License](https://github.com/callmeEthan/Gamemaker_animation_demo/blob/main/LICENSE).
   
 [<img src="https://github.com/callmeEthan/PrimeFramework_Sponza/blob/main/Screenshots/ads.jpg?raw=true">](mailto:name_Ethan@outlook.com)  
-💵 **You can hire me on [Fiverr](https://www.fiverr.com/callme_ethan/)**
